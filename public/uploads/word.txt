@@ -1,0 +1,3 @@
+word megnyitása
+felh. nev: nev@dk.akkszalezi.hu
+jelszó ugyanaz
